@@ -1,4 +1,5 @@
 package drew.search;
+
 public class BinarySearch {
 	public static int binarySearch(int [] a, int target){
 	    int left  = 0;
